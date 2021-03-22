@@ -42,7 +42,7 @@ Give a ⭐️ if this project helped you!
     <tr>
       <td><b>Latest</b></td>
       <td>
-        <div>🟢 <b><a href="">Download</a></b></div>
+        <div>🟢 <b><a href="https://github.com/MineCodeYT/Electroncore/archive/refs/heads/main.zip">Download</a></b></div>
       </td>
     </tr>
   </tbody>
