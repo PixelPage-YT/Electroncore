@@ -22,7 +22,6 @@ bash decompile.sh
 
 👤 **MineCode**
 
-* Website: minecode.github.io
 * Github: [@MineCode](https://github.com/MineCode)
 
 ## Show your support
