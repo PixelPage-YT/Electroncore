@@ -36,7 +36,6 @@ Give a ⭐️ if this project helped you!
     <tr>
       <th></th>
       <th>Downloads</th>
-      <th>Supported OS</th>
     </tr>
   </thead>
   <tbody>
@@ -44,7 +43,6 @@ Give a ⭐️ if this project helped you!
       <td><b>Latest</b></td>
       <td>
         <div>🟢 <b><a href="">Download</a></b></div>
-        <div>🟠 <a href="https://github.com/Tyrrrz/DiscordChatExporter/actions?query=workflow%3ACI">CI build</a> (<code>DiscordChatExporter.zip</code>)</div>
       </td>
     </tr>
   </tbody>
