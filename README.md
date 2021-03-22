@@ -28,3 +28,30 @@ bash decompile.sh
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Download
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Downloads</th>
+      <th>Supported OS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Latest</b></td>
+      <td>
+        <div>🟢 <b><a href="">Download</a></b></div>
+        <div>🟠 <a href="https://github.com/Tyrrrz/DiscordChatExporter/actions?query=workflow%3ACI">CI build</a> (<code>DiscordChatExporter.zip</code>)</div>
+      </td>
+        <div>.NET v3.1 Desktop Runtime</div>
+        <ul>
+          <li><a href="https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.0-windows-x64-installer">Windows <b>x64</b></a></li>
+          <li><a href="https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.0-windows-x86-installer">Windows <b>x86</b></a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
